@@ -15,6 +15,9 @@ Bilderhic includes usefull commands for edit files.
 npm i -g bilderhic
 ```
 
+## Video Youtube sample
+* https://www.youtube.com/watch?v=HmTYxwD2Mgs&list=PLN55oDjIbZw_T4sYFnDbv65fTFl08bDRw&index=5
+
 ## License
 
 [MIT](https://github.com/lcnvdl/bilderhic/blob/master/LICENSE)
